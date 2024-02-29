@@ -1,0 +1,7 @@
+echo "# Ut6Testing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://Ut6Testing.com
+git push -u origin main
